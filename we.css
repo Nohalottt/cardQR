@@ -1,0 +1,17 @@
+body{
+    padding: 40%;
+    padding-top: 3%;
+    background-color: rgb(0, 200, 255);
+}
+img{
+    padding: 5%;
+}
+.card-img-top{
+    border-radius:20px;
+}
+h5,p{
+    text-align: center;
+}
+p{
+    font-size:small;
+}
